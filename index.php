@@ -10,6 +10,7 @@ height: 500px;
 </style>
 
 <?php
+// Code by Zeus ( Nguyễn Đức Hạnh )
 $index_url='index.php';
 $posts_url='posts/posts.php';
 $top_posts_url='posts/topposts.php';
